@@ -15,7 +15,7 @@
 * <p> Power BI  <img src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-thumbnail.png" alt="PowerBi" width="25" height="25"/> </p> 
 
   
-#### [Power BI Dashboard Link](https://www.novypro.com/project/hr-analytics-dashboard-238) <a href="https://www.novypro.com/project/hr-analytics-dashboard-238" target="_blank" rel="noreferrer"></a>  🔗
+#### [Power BI Dashboard Link](https://www.novypro.com/project/hr-analytics-dashboard-238) <a href="https://https://www.novypro.com/project/hr-analytics-dashboard-238" target="_blank" rel="noreferrer"></a>  🔗
 
 
 

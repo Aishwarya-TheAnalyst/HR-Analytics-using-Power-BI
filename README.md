@@ -21,7 +21,7 @@
 
 ## Setup Process
   
-Step 1: Download file: <code>[Attendance Sheet 2022-2023_Masked.xlsx](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/Databases/db_dump.sql)</code> 
+Step 1: Download file: <code>[Attendance Sheet 2022-2023_Masked.xlsx](https://github.com/Aishwarya-TheAnalyst/HR-Analytics-using-Power-Bi/blob/main/Attendance%20Sheet%202022-2023_Masked.xlsx)</code> 
 
 Step 2: Download [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/) (Free) 
   

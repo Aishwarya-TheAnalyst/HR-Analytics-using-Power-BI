@@ -47,8 +47,7 @@ Step 5: Save the file as (.pbix)
 
 |**Sr.No. 🔢**|**References 👨‍💻**| **Links :link:**|
 |------|--------------------|---------------------|
-|1| **Power BI Project Dashboard :** HR Analytics using Power BI | [Dashboard](https://www.novypro.com/project/hr-analytics-dashboard-238)|
-|2| Tutorial | [YouTube](https://www.youtube.com/watch?v=ru1qeDO_qrc&list=PLeo1K3hjS3uuVQccZa7yFwK3ltoGQOWbM) | 
+|1| Tutorial | [YouTube](https://www.youtube.com/watch?v=ru1qeDO_qrc&list=PLeo1K3hjS3uuVQccZa7yFwK3ltoGQOWbM) | 
 
   
 
